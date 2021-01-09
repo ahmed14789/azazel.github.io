@@ -49,7 +49,7 @@ white-space:nowrap;
 
 
 }
-#img1,#img2,#img3,#img4,#img5,#img6,#img8,.img9{
+#img1,#img2,#img3,#img4,#img5,#img6,#img8,#img9,#img10,#img11,#img12,#img13,#img14,#img15{
 	width: 150px;
 	padding: 50px; 
 	margin: 20px auto;
@@ -59,7 +59,7 @@ white-space:nowrap;
 	transition: transform .2s;
 	
 }
-#img1:hover,#img2:hover,#img3:hover,#img4:hover,#img5:hover,#img6:hover,#img8:hover,.img9:hover {
+#img1:hover,#img2:hover,#img3:hover,#img4:hover,#img5:hover,#img6:hover,#img8:hover,.img9:hover,#img10:hover,#img11:hover,#img12:hover,#img13:hover,#img14:hover,#img15:hover {
   -ms-transform: scale(1.5);
   -webkit-transform: scale(1.5); 
   transform: scale(1.5); 
