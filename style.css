@@ -281,12 +281,12 @@ font-family: FreeMono, monospace;
 	background-color : rgba(140, 24, 24,0.4);
 
 }
-#img9,.infoitem{
+.img9,.infoitem{
 display:inline-block;
 font-size: 20px;
 list-style:none;
 }
-#img9{
+.img9{
 	margin: 0 50px;
 }
 .infoitem{
