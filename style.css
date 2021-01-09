@@ -147,7 +147,7 @@ background:url(photos/Background.jpg) no-repeat center fixed;
 #AZAZEL{
 width:1000px;
 height: auto;
-margin-top: 20px;
+margin: 20px 0 0 450px;
 transition: transform 5s;
 overflow: hidden;
 }
